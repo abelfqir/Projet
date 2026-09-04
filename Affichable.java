@@ -7,7 +7,7 @@
  *
  * Concepts :
  * ----------
- * - Interface (Jour 3)
+ * - Interface
  * - Permet d'unifier des classes sans lien d'héritage
  * - Formation n'hérite pas de Personne, mais peut être "Affichable"
  *
